@@ -1,1 +1,11 @@
-# footballAPI
+![2022-04-18 (1)](https://user-images.githubusercontent.com/103940739/163817612-9d9f197b-b30a-40b7-93d2-4e69b7e55c88.png)
+![2022-04-18 (1)](https://user-images.githubusercontent.com/103940739/163817635-83452438-1694-4212-893a-cd0396d473ab.png)
+![2022-04-18 (2)](https://user-images.githubusercontent.com/103940739/163817641-e4f94850-93d7-4751-8f5f-bd99969fe6a4.png)
+![2022-04-18 (3)](https://user-images.githubusercontent.com/103940739/163817642-0bcf4e84-eaa8-4003-b56f-795a99387d4f.png)
+![2022-04-18 (6)](https://user-images.githubusercontent.com/103940739/163817643-8aae97ee-a760-4797-acc5-edab49a1c2a0.png)
+![2022-04-18 (7)](https://user-images.githubusercontent.com/103940739/163817648-00d50b20-358e-4472-9994-aa9c7acb370b.png)
+![2022-04-18 (8)](https://user-images.githubusercontent.com/103940739/163817650-ce80f0b7-6093-4e75-897e-f29a211c0986.png)
+![2022-04-18 (11)](https://user-images.githubusercontent.com/103940739/163817651-ec194d78-b01a-484f-9bf5-2e241b9910d7.png)
+![2022-04-18](https://user-images.githubusercontent.com/103940739/163817653-1470746f-88a1-4bd0-a545-15f1b72c9400.png)
+![2022-04-18 (14)](https://user-images.githubusercontent.com/103940739/163818446-e7c53df9-c7a1-491a-9679-df0eeca6d6da.png)
+![2022-04-18 (4)](https://user-images.githubusercontent.com/103940739/163818653-2b84a5c6-2251-44d4-bbee-0d318ed9d4cd.png)
